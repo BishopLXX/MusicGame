@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyGameDemo/Scenes/MyKoreograper.unity
+  isLoaded: 1
+  isActive: 1
